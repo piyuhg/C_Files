@@ -7,8 +7,7 @@ int main(){
 		printf("Enter the number: ");
 		scanf("%d",&num);
 		count++;
-		}
-		else{
+		}else{
 		printf("\nEnter valid number (greater than equal to 0): ");
 		scanf("%d",&num);
 		}
