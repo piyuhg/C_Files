@@ -1,6 +1,5 @@
 #include<stdio.h>
-piyuhg
-repositry -> c_files
+
 int main(){
 	int num, i,fact=1,count = 1;
 	do{
